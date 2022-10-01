@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou Oceanógrafa e programadora em desenvolvimento com ênfase em <strong>ciência de dados</strong>.<br>
+  Sou Oceanógrafa e programadora com ênfase em <strong>ciência de dados</strong>.<br>
   Atualmente estou aprimorando minhas habilidades realizando cursos profissionalizantes para aperfeiçoar meus conhecimentos em Python e SQL.
 </p>
 
